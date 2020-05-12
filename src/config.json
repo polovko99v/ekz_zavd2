@@ -1,0 +1,7 @@
+{
+    "port":5000,
+    "db":{
+    "name":"photoDB",
+    "url":"mongodb://localhost:27017/"
+    }
+}
